@@ -29,6 +29,11 @@ brew install --cask slack
 brew install --cask spotify
 
 ## TODO
+# R
+# Rstudio
+# python
+# 
+
 # dotfiles, config files -> collate across heritage *nix platforms
 # pretty terminal settings 
 # other misc profile not yet programmatically maintained 

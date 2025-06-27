@@ -10,14 +10,17 @@ brew upgrade
 BREW_PREFIX=$(brew --prefix)
 
 # GNU core utils ??  Eg find, sed, xargs ets
+# core unix
 brew install bash
 brew install coreutils
 brew install findutils
 brew install gnu-sed
 brew install gawk
+brew install grep
+
+brew install dropbox
 brew install git
 brew install gh
-brew install grep
 brew install htop
 brew install openssh
 brew install tmux
@@ -28,6 +31,8 @@ brew install xpdf
 brew install --cask firefox
 brew install --cask slack
 brew install --cask spotify
+brew install --cask adobe-acrobat-reader
+
 
 # set up git public ssh key-pair
 # using ssh-keygen & copy to github: 
@@ -38,9 +43,6 @@ brew install --cask spotify
 # Rstudio
 # python
 # vpn
-
-# dropbox
-# acrobat/adobe reader
 # vlc
 
 # dotfiles, config files -> collate across heritage *nix platforms

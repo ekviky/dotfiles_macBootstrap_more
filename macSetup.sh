@@ -14,6 +14,7 @@ brew install bash
 brew install coreutils
 brew install findutils
 brew install gnu-sed
+brew install gawk
 brew install git
 brew install gh
 brew install grep
@@ -28,14 +29,19 @@ brew install --cask firefox
 brew install --cask slack
 brew install --cask spotify
 
+
 ## TODO
 # R
 # Rstudio
 # python
-# 
+# vpn
+
+# dropbox
+# acrobat/adobe reader
+# vlc
 
 # dotfiles, config files -> collate across heritage *nix platforms
-# pretty terminal settings 
+# pretty terminal settings & shell prefs
 # other misc profile not yet programmatically maintained 
 
 ### make it executable 

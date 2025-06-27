@@ -29,6 +29,9 @@ brew install --cask firefox
 brew install --cask slack
 brew install --cask spotify
 
+# set up git public ssh key-pair
+# using ssh-keygen & copy to github: 
+# $ cat ~/.ssh/id_rsa.pub | pbcopy
 
 ## TODO
 # R

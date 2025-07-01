@@ -18,11 +18,15 @@ brew install gnu-sed
 brew install gawk
 brew install grep
 
+brew install docker
 brew install dropbox
 brew install git
 brew install gh
 brew install htop
 brew install openssh
+brew install python
+brew install R 
+brew install Rstudio 
 brew install tmux
 brew install tree
 brew install vim
@@ -39,15 +43,21 @@ brew install --cask adobe-acrobat-reader
 # $ cat ~/.ssh/id_rsa.pub | pbcopy
 
 ## TODO
-# R
-# Rstudio
-# python
+# conda
+# Evernote
+# Jupyter Lab
+# R packages: tidyverse, etc
+# snakemake or nextflow
 # vpn
 # vlc
+# VSCode
+# Zotero 
 
 # dotfiles, config files -> collate across heritage *nix platforms
 # pretty terminal settings & shell prefs
 # other misc profile not yet programmatically maintained 
+# mapping function keys
+# adding Library back to finder
 
 ### make it executable 
 ##!/bin/bash
